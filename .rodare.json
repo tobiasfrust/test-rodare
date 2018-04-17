@@ -6,18 +6,6 @@
         }
     ],
     "title": "RODARE GitHub Integration test.",
-    "related_identifiers": [
-        {
-            "scheme": "url",
-            "relation": "isSupplementTo",
-            "identifier": "https://github.com/tobiasfrust/test-rodare/tree/v1.0.6"
-        },
-        {
-            "scheme": "doi",
-            "relation": "isVersionOf",
-            "identifier": "10.14278/rodaretest.16"
-        }
-    ],
     "access_right": "open",
     "upload_type": "software",
     "license": "GPL-3.0",
