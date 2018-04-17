@@ -2,7 +2,8 @@
     "creators": [
         {
             "name": "Frust, Tobias",
-            "affiliation": "Helmholtz-Zentrum Dresden-Rossendorf  "
+            "affiliation": "Helmholtz-Zentrum Dresden-Rossendorf",
+            "orcid": "0000-0002-5590-7473"
         }
     ],
     "title": "RODARE GitHub Integration test.",
